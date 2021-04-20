@@ -1,0 +1,36 @@
+canvas{
+    margin: 0 15vw;
+}
+
+.progress-bar{
+    width: 10rem;
+    height: 0.5rem;
+    top: 50px;
+    left: 310px;
+    position: absolute;
+    border: 1px solid white;
+}
+
+.progress-bar-2{
+    width: 10rem;
+    height: 0.5rem;
+    top: 50px;
+    left: 755px;
+    position: absolute;
+    border: 1px solid white;
+    transform: rotate(180deg);
+}
+
+
+#prayer1ProgressBarFull{
+    height: 0.5rem;
+    background: goldenrod;
+    width: 0%; 
+}
+
+#prayer2ProgressBarFull{
+    height: 0.5rem;
+    background: blue;
+    width: 0%; 
+    
+}
